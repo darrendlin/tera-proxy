@@ -18,5 +18,8 @@
     "tera-data": "github:meishuu/tera-data",
     "tera-proxy-game": "github:meishuu/tera-proxy-game",
     "tera-proxy-sls": "github:meishuu/tera-proxy-sls"
+  },
+  "scripts": {
+    "start": "node bin/proxy.js"
   }
 }
